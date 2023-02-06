@@ -46,7 +46,7 @@ const Container = styled.div`
   text-align: center;
   justify-content: center;
   margin: auto;
-  margin-top: 5rem;
+  margin-top: 25vh;
   padding: 2rem;
   align-items: center;
   @media (min-width: 500px) {
