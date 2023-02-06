@@ -31,6 +31,7 @@ const BtnContainer = styled.button`
   margin-top: -30px;
   &:hover {
     box-shadow: 0px 0px 20px var(--NeonGreen);
+    cursor: pointer;
   }
 `;
 const Btn = styled.img`
