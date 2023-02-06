@@ -19,64 +19,6 @@
 body {
   font-family: Manrope, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
     'Open Sans', 'Helvetica Neue', sans-serif;
-  background: var(--Off-white);
-  color: var(--Light-grey);
-  line-height: 1.8;
-  font-size: 28px;
-}
-ul {
-  list-style-type: none;
-}
-a {
-  text-decoration: none;
-  color: var(--Dark-grey);
-}
-a:hover {
-  color: var(--Soft-red);
-}
-h1,
-h2,
-h3,
-h4 {
-  text-transform: capitalize;
-  line-height: 1;
-  font-weight: 800;
 
-  color: #222;
-}
-h1 {
-  font-size: 2.2rem;
-}
-h2 {
-  font-size: 1.2rem;
-}
-h3 {
-  font-size: 1rem;
-}
-h4 {
-  font-size: 0.875rem;
-}
-
-@media screen and (min-width: 800px) {
-  h1 {
-    font-size: 3rem;
-  }
-  h2 {
-    font-size: 1.2rem;
-  }
-  h3 {
-    font-size: 1rem;
-  }
-  h4 {
-    font-size: 1rem;
-  }
-  body {
-    font-size: 1rem;
-  }
-  h1,
-  h2,
-  h3,
-  h4 {
-    line-height: 1.1;
-  }
+  background-color: var(--DarkBlue);
 }
